@@ -1,2 +1,3 @@
-# Muon-Correlation-to-local-Weather-Patterns
-Project from my scientific computing class in college. Where we discussed and tried to see if there were correlative factors for muon particles against local atmosphere in Atlanta GA. 
+# Big-Data-Analysis-using-MATLAB-Connections-Between-Atmospheric-Muon-Count-and-Local-Weather-Pattern
+A project using Matlab programming to figure out correlative figures in local atmosphere in regards to Muon subatomic particles. 
+we discuss how local weather factors exactly affect these subatomic particles
